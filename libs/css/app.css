@@ -3449,8 +3449,8 @@ table ul {
 
 /* line 162, ../../sass/_export.scss */
 .biz-ex-logo {
-  background-color: #FAFAFA;
-  border-bottom: 1px solid #e8e8e8;
+  background-color: #0f1870;
+  border-bottom: 1px solid #0f1870;
 }
 @media (min-width: 1024px) {
   /* line 162, ../../sass/_export.scss */
@@ -3470,7 +3470,7 @@ table ul {
 /* line 175, ../../sass/_export.scss */
 .biz-ex-logo > .biz-ex-logo-navigate {
   float: left;
-  margin-left: .25rem;
+  margin-left: .30rem;
 }
 @media (min-width: 1024px) {
   /* line 175, ../../sass/_export.scss */
@@ -3487,7 +3487,7 @@ table ul {
 
 /* line 189, ../../sass/_export.scss */
 .biz-ex-top-nav {
-  background-color: #FAFAFA;
+  background-color: #0f1870;
   padding: 1em 0;
 }
 
@@ -3519,7 +3519,7 @@ table ul {
 .biz-ex-title-process {
   margin: 0;
   font-size: 14px;
-  font-weight: 200;
+  font-weight: 900;
   text-overflow: ellipsis;
   overflow: hidden;
   white-space: nowrap;
@@ -3528,12 +3528,14 @@ table ul {
 /* line 218, ../../sass/_export.scss */
 .biz-ex-title-diagram {
   margin: 0;
-  font-size: 2em;
-  font-weight: 400;
+  font-size: 3em;
+  font-weight: 900;
   line-height: 1;
   text-overflow: ellipsis;
   overflow: hidden;
   white-space: nowrap;
+  color: #e71a1a
+
 }
 
 /* line 228, ../../sass/_export.scss */
@@ -3634,7 +3636,7 @@ table ul {
 .biz-ex-logo-img {
   display: block;
   width: 166px;
-  height: 55px;
+  height: 65px;
   margin: 0 auto;
   background: url("../img/biz-ex-logo.png") no-repeat;
 }
@@ -4938,6 +4940,7 @@ body.off-canvas {
   z-index: 10;
   padding: 0 1rem;
   bottom: 0;
+
 }
 /* line 1347, ../../sass/_export.scss */
 .biz-ex-back-process.biz-ex-navigate:hover {

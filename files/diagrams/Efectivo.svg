@@ -132,9 +132,9 @@
     </g>
   </g>
   <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 450, 139)" id="gfx-955d3007-2b86-4475-afba-c909f6087f36" display="block" class="djs-element djs-shape" data-element-id="955d3007-2b86-4475-afba-c909f6087f36">
+    <g transform="matrix(1, 0, 0, 1, 450, 139)" id="gfx-33fc280b-277e-4c92-a383-fda2fa9526d3" display="block" class="djs-element djs-shape" data-element-id="33fc280b-277e-4c92-a383-fda2fa9526d3">
       <g class="djs-visual">
-        <rect x="0" y="0" width="128" height="79" fill-opacity="0" stroke-opacity="0" style="fill:transparent;stroke:transparent;" />
+        <rect x="0" y="0" width="128" height="79" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
         <svg width="128" height="74" class="djs-svg-text">
           <text font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="normal" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-label" style="fill:black;">
             <tspan x="7.008331" y="14.75">¿El monto en efectivo es</tspan>
